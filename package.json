@@ -1,0 +1,20 @@
+{
+  "name": "zadanie_3",
+  "version": "1.0.0",
+  "description": "Aktualny czas i data",
+  "main": "time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "now": "node time.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "michallangier"
+  },
+  "keywords": [
+    "time",
+    "date"
+  ],
+  "author": "Michał",
+  "license": "ISC"
+}
